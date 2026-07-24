@@ -10,7 +10,7 @@ CS & Electrical Engineering student at the University of Toledo, working on expl
 
 - **xai-cam-backend** — FastAPI service for reviewing explainable-AI (Grad-CAM) outputs on action-recognition models, with Gemini-generated evidence explanations
 - Undergraduate research in explainable AI, zero-shot learning, and microscopy image enhancement/super-resolution for medical imaging
-- Also contributing to [dah-nii/plant-AI](https://github.com/dah-nii/plant-AI)
+- Also contributing to [dah-nii/plant-Al](https://github.com/dah-nii/plant-Al)
 
 ### 💼 Currently
 
