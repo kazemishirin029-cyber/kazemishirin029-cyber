@@ -28,12 +28,3 @@ Building small, focused tools around ML explainability and applied engineering â
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
-
-### ðŸ“Š GitHub Stats
-
-<div align="center">
-
-![Shirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazemishirin029-cyber&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazemishirin029-cyber&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
