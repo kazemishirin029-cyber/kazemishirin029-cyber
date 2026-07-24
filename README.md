@@ -2,20 +2,22 @@
 
 # Hi, I'm Shirin 👋
 
-Building small, focused tools around ML explainability and applied engineering — currently exploring FastAPI backends paired with lightweight, single-page frontends.
+CS & Electrical Engineering student at the University of Toledo, working on explainable AI research for medical imaging.
 
 </div>
 
-### 🚀 What I'm working on
+### 🔬 What I'm working on
 
-- **xai-cam-backend** — FastAPI service that serves an evidence-review UI for action-recognition model outputs, with Gemini-generated, evidence-grounded explanations.
+- **xai-cam-backend** — FastAPI service for reviewing explainable-AI (Grad-CAM) outputs on action-recognition models, with Gemini-generated evidence explanations
+- Undergraduate research in explainable AI, zero-shot learning, and microscopy image enhancement/super-resolution for medical imaging
 - Also contributing to [dah-nii/plant-AI](https://github.com/dah-nii/plant-AI)
-- More projects coming soon.
 
-### 🌱 Currently
+### 💼 Currently
 
-- 🔭 Working on explainable AI (XAI) tooling for video/image classification
-- 🌱 Learning: FastAPI, Gemini API integration
+- 🎓 CS + EE double major, University of Toledo (Class of 2028)
+- 🔬 Undergrad researcher — explainable AI & zero-shot learning for medical imaging
+- 💻 IT Technical Aide Intern — troubleshooting, workstation imaging, system support
+- 🤝 Technical Chair @ ACM · Treasurer @ Persian Students' Organization
 - 📧 Reach me: skazemi3@rockets.utoledo.edu
 
 ### 🛠️ Tech Stack
@@ -23,8 +25,10 @@ Building small, focused tools around ML explainability and applied engineering �
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
